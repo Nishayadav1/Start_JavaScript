@@ -37,6 +37,6 @@ const l=myArr2.slice(1,3)
 console.log(l)
 
 console.log("B",myArr2);
-const l1=myArr2.splice(3) ///remover 3 element
+const l1=myArr2.splice(3) // remover 3 element
 console.log(l1)
 
